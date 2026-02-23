@@ -121,6 +121,8 @@ TBD
 Группируем по персонажам
 
 ### Cсылки на дополнительные материалы
-Телеграм автора http://t.me/ar_akimy
-EN дискорд по персонажу  https://discord.gg/XPXRWuY
-RU дискорд https://discord.gg/dPM7bwypWR с темой по персонажу https://discord.com/channels/563229394232016896/1467554782066774280 
+1) Телеграм автора http://t.me/ar_akimy
+
+2) EN дискорд по персонажу  https://discord.gg/XPXRWuY
+
+3) RU дискорд https://discord.gg/dPM7bwypWR с темой по персонажу https://discord.com/channels/563229394232016896/1467554782066774280 

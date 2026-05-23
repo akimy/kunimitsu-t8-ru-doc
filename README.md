@@ -223,7 +223,7 @@ TBD
 
 ### Комбо теория
 [DAY 1 комбинации видео YoutTube](https://www.youtube.com/watch?v=7gYvE1cxWbM.)\
-[Комбинации из зарубежной доки Google Docs](https://docs.google.com/spreadsheets/d/1S1LPAKUBQYQHUn8LZha1_OKxwWjDWG1btjPtXgcd4v0/edit?gid=1778626471#gid=1778626471) 
+[Комбо-нотации из комьюнити доки Google Docs](https://docs.google.com/spreadsheets/d/1S1LPAKUBQYQHUn8LZha1_OKxwWjDWG1btjPtXgcd4v0/edit?gid=1778626471#gid=1778626471) 
 
 -----------------
 
@@ -262,8 +262,11 @@ $${\color{green}Самая\spaceбаза}$$
 *Комфортная дистанция для вас*
 ![setshort](./assets/img/set_short.jpg)
 
-*Находясь спиной к стене*, легко прилипнуть с хоминга `qcf1+2`, отходить от стены аккуратно степ-блоками
+Находясь спиной к стене:\
+Легко прилипнуть с хоминга `qcf1+2`, отходить от стены осторожно
 
+Разрыв броска `f1+4`:\
+Разрыв на "1". Надо подлабить, анимация хватания ногой как у Маршала. После разрыва ситуация BT к BT, кунимица в -3. Надо быть готовым
 
 TBD\
 _Антигайд нужен, желательно видео, желательно 3-5 минут_
